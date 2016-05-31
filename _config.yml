@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.107071
+color:
+  saturation: 0.5127515
+  lightness: 0.3684123
+  brandStrength: 0.7921402
+  brandColors:
+    - '#020203'
+    - '#FFFFFF'
+    - '#FD3458'
+    - '#6F5F44'
+    - '#00FFFD'
+  rhythmicContrast: 0.505082
+name: xanders stream
