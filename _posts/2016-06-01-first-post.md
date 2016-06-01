@@ -2,17 +2,18 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T21:55:12.060Z'
-dateModified: '2016-06-01T21:55:04.753Z'
+datePublished: '2016-06-01T21:58:02.066Z'
+dateModified: '2016-06-01T21:58:01.724Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-first-post.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-first-post.md
 _type: Blurb
 
 ---
